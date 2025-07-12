@@ -2,7 +2,7 @@
 
 A beautiful, lightweight, and secure ephemeral messaging web application with PIN-based room security and stunning visual effects.
 
-![SecureChat Demo](https://via.placeholder.com/800x400/6366f1/ffffff?text=SecureChat+Demo)
+![SecureChat Demo](https://secure-chat-two.vercel.app/)
 
 ## ✨ Features
 
@@ -48,7 +48,7 @@ A beautiful, lightweight, and secure ephemeral messaging web application with PI
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/securechat.git
+   git clone https://github.com/trdp2019/SecureChat.git
    cd securechat
    ```
 
@@ -235,9 +235,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help:
 
-- 📧 Email: support@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/securechat/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/securechat/discussions)
+- 📧 Email: tridip@googleit.in
+- 🐛 Issues: [GitHub Issues](https://github.com/trdp2019/SecureChat/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/trdp2019/SecureChat/discussions)
 
 ## 🌟 Show Your Support
 
